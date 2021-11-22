@@ -1,4 +1,4 @@
-    ### Can do
+### Can do
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<div style="display: block">
+___
 
 <!-- OS -->
 #### More
@@ -24,10 +24,8 @@
 
 ![HTML](./assets/vector/linux.svg)
 ![JS](./assets/vector/windows.svg)
-
 ![HTML](./assets/vector/mysql.svg)
 ![JS](./assets/vector/mongo.svg)
-
 ![kali](./assets/vector/kali.svg)
 ![JS](./assets/vector/travis-ci-icon.svg)
 ![Docker](./assets/vector/docker-icon.svg)
