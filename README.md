@@ -1,24 +1,54 @@
-### Welcome
+## Technologies
 
-___
-<h2>Tech </h2>
-<div style="flex-direction: row; align-content: center; justify-items: center">
-<img src="./assets/vector/spring.svg"/>
-<img src="./assets/vector/html.svg" />
-<img src="./assets/vector/js.svg" />
+#### Frameworks & libraries
+
+<div align="center">
+
+![HTML](./assets/vector/html.svg)
+![CSS](./assets/vector/css.svg)
+
+![React](./assets/vector/react.svg)
+![Spring](./assets/vector/spring.svg)
+![Angular](./assets/vector/angular.svg)
+
+![Java](./assets/vector/java.svg)
+![Python](./assets/vector/python.svg)
+![PHP](./assets/vector/php.svg)
+![JS](./assets/vector/js.svg)
+
 </div>
 
+***
 <!-- OS -->
+#### OS
+<div align="center">
 
-<div style="flex-direction: row; align-content: center; justify-items: center">
-<img src="./assets/vector/linux.svg" />
-<img src="./assets/vector/windows.svg" />
+![HTML](./assets/vector/linux.svg)
+![JS](./assets/vector/windows.svg)
+
+</div>
+
+___
+#### Persistence
+
+<div align="center">
+
+![HTML](./assets/vector/mysql.svg)
+![JS](./assets/vector/mongo.svg)
+
 </div>
 
 
-
 ___
-##Learning
+#### More
+
+<div align="center">
+
+![kali](./assets/vector/kali.svg)
+![JS](./assets/vector/travis-ci-icon.svg)
+![Docker](./assets/vector/docker-icon.svg)
+
+</div>
 
 <!--
 **elleom/elleom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
