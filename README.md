@@ -2,8 +2,6 @@
 
 ### - ⚡ Can do - ⚡
 
-<script src="https://tryhackme.com/badge/113431"></script>
-
 <div align="center">
 
 ![HTML](./assets/vector/html.svg)
