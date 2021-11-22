@@ -2,9 +2,9 @@
 
 ___
 <h2>Tech </h2>
-<img src="./assets/vector/springio-ar21.svg" width="25" height=25 />
-<img src="./assets/java.png" width="25" height=25 />
-<img src="./assets/javascript.png" width="25" height=25 />
+<img src="./assets/vector/springio-ar21.svg"/>
+<img src="./assets/java.png" />
+<img src="./assets/javascript.png" />
 
 ___
 ##Learning
