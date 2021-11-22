@@ -2,9 +2,20 @@
 
 ___
 <h2>Tech </h2>
-<img src="./assets/vector/springio-ar21.svg"/>
-<img src="./assets/java.png" />
-<img src="./assets/javascript.png" />
+<div style="flex-direction: row">
+<img src="./assets/vector/spring.svg"/>
+<img src="./assets/vector/html.svg" />
+<img src="./assets/vector/js.svg" />
+</div>
+
+<!-- OS -->
+
+<div style="flex-direction: row">
+<img src="./assets/vector/linux.svg.svg" />
+<img src="./assets/vector/windows.svg" />
+</div>
+
+
 
 ___
 ##Learning
