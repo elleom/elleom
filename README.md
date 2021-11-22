@@ -2,7 +2,7 @@
 
 ___
 <h2>Tech </h2>
-<div style="flex-direction: row">
+<div style="flex-direction: row; align-items: center">
 <img src="./assets/vector/spring.svg"/>
 <img src="./assets/vector/html.svg" />
 <img src="./assets/vector/js.svg" />
@@ -10,8 +10,8 @@ ___
 
 <!-- OS -->
 
-<div style="flex-direction: row">
-<img src="./assets/vector/linux.svg.svg" />
+<div style="flex-direction: row; align-items: center">
+<img src="./assets/vector/linux.svg" />
 <img src="./assets/vector/windows.svg" />
 </div>
 
