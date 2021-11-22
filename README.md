@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome
+
+___
+<h2 align="center"> Tech </h2>
+
+___
+##Learning
 
 <!--
 **elleom/elleom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
