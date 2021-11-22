@@ -1,6 +1,4 @@
-## Technologies
-
-#### Frameworks & libraries
+    ### Can do
 
 <div align="center">
 
@@ -18,37 +16,26 @@
 
 </div>
 
-***
+<div style="display: block">
+
 <!-- OS -->
-#### OS
+#### More
 <div align="center">
 
 ![HTML](./assets/vector/linux.svg)
 ![JS](./assets/vector/windows.svg)
 
-</div>
-
-___
-#### Persistence
-
-<div align="center">
-
 ![HTML](./assets/vector/mysql.svg)
 ![JS](./assets/vector/mongo.svg)
-
-</div>
-
-
-___
-#### More
-
-<div align="center">
 
 ![kali](./assets/vector/kali.svg)
 ![JS](./assets/vector/travis-ci-icon.svg)
 ![Docker](./assets/vector/docker-icon.svg)
 
 </div>
+
+___
+
 
 <!--
 **elleom/elleom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
