@@ -31,6 +31,7 @@ ___
 ![kali](./assets/vector/kali.svg)
 ![JS](./assets/vector/travis-ci-icon.svg)
 ![Docker](./assets/vector/docker-icon.svg)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="99cb43e3-c7de-4f94-a9fb-b66f0b2847f7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 </div>
 
