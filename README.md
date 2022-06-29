@@ -1,6 +1,4 @@
-<div align="center">
-
-![HTML](./assets/vector/png/readme.png)
+<img src="./assets/vector/png/readme.png" style="height: available; width: available">
 
 <!--
 **elleom/elleom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
