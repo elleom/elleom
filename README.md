@@ -1,41 +1,6 @@
-![HTML](https://tryhackme-badges.s3.amazonaws.com/0elle0.png)
-
-### - ⚡ Can do - ⚡
-
 <div align="center">
 
-![HTML](./assets/vector/html.svg)
-![CSS](./assets/vector/css.svg)
-
-![React](./assets/vector/react.svg)
-![Spring](./assets/vector/spring.svg)
-![Angular](./assets/vector/angular.svg)
-
-![Java](./assets/vector/java.svg)
-![Python](./assets/vector/python.svg)
-![PHP](./assets/vector/php.svg)
-![JS](./assets/vector/js.svg)
-
-</div>
-
-___
-
-<!-- OS -->
-#### More
-<div align="center">
-
-![HTML](./assets/vector/linux.svg)
-![JS](./assets/vector/windows.svg)
-![HTML](./assets/vector/mysql.svg)
-![JS](./assets/vector/mongo.svg)
-![kali](./assets/vector/kali.svg)
-![JS](./assets/vector/travis-ci-icon.svg)
-![Docker](./assets/vector/docker-icon.svg)  
-
-</div>
-
-___
-
+![HTML](./assets/vector/png/readme.png)
 
 <!--
 **elleom/elleom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
